@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+## Author:  Dan Srebnick, K2DLS
+## License: GPL-3
 
 import sys
 import gi
